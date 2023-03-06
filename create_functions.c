@@ -31,8 +31,9 @@ int arm_building = down - 640;
 //#define front 1300
 //int front = front;
 int back = front - 1300;
+int middle = front - 650;
 
-//#define closed 1800
+//#define closed 1900
 //int closed = closed;
 int open = closed - 1040;
 int tight = closed + 300;
@@ -127,7 +128,6 @@ void start_position(){
     slow_hand(open);
     slow_arm(up);
     slow_base(back);
-    slow_arm(mid);
 }
 
 void arm_out(){

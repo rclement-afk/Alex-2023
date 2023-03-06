@@ -14,7 +14,7 @@
 
 #define down 2100
 #define front 1300
-#define closed 1800
+#define closed 2000
 #define forward1 2000
 int up;
 int graze;
@@ -25,6 +25,7 @@ int mid;
 //int front;
 int back;
 int open;
+int middle;
 //int closed;
 int hand_valve;
 int tight;
