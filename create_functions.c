@@ -24,7 +24,7 @@
 //int down = down;
 int up = down - 900;
 int mid = down - 600;
-int graze = down - 600;
+int graze = down - 650;
 int arm_water = down - 400;
 int arm_building = down - 640;
 

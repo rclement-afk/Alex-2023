@@ -13,7 +13,7 @@
 #define right 1*/
 
 #define down 2100
-#define front 1300
+#define front 1350
 #define closed 2000
 #define forward1 2000
 int up;
